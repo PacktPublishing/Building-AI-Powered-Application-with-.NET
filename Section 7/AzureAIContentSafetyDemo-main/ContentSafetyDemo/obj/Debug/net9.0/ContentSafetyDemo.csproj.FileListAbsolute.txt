@@ -1,0 +1,14 @@
+C:\Projects\ContentSafetyDemo\bin\Debug\net9.0\ContentSafetyDemo.exe
+C:\Projects\ContentSafetyDemo\bin\Debug\net9.0\ContentSafetyDemo.deps.json
+C:\Projects\ContentSafetyDemo\bin\Debug\net9.0\ContentSafetyDemo.runtimeconfig.json
+C:\Projects\ContentSafetyDemo\bin\Debug\net9.0\ContentSafetyDemo.dll
+C:\Projects\ContentSafetyDemo\bin\Debug\net9.0\ContentSafetyDemo.pdb
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\ContentSafetyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\ContentSafetyDemo.AssemblyInfoInputs.cache
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\ContentSafetyDemo.AssemblyInfo.cs
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\ContentSafetyDemo.csproj.CoreCompileInputs.cache
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\ContentSafetyDemo.dll
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\refint\ContentSafetyDemo.dll
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\ContentSafetyDemo.pdb
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\ContentSafetyDemo.genruntimeconfig.cache
+C:\Projects\ContentSafetyDemo\obj\Debug\net9.0\ref\ContentSafetyDemo.dll

@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Azure AI Vision Demo";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Azure AI Vision Demo</h1>
+    <p>An intelligent app to assess an image generate a caption
+    </p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="Input.Image">Upload Image</label>
+                <input asp-for="Input.Image" >
+            </div>
+            <button type="submit" class="btn btn-primary">Submit for Assessment</button>
+        </form>
+    </div>
+    <div class="col-md-6">
+        <img src="data:image/png;base64,@Model.Input.ImageData" class="img-thumbnail" />
+        <p>@Model.Input.ImageCaption</p>
+    </div>
